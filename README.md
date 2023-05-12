@@ -1,1 +1,3 @@
-# delete the tsConfigFile and then run yarn start
+# in case of typescript ERROR
+
+## Delete the tsconfig File and then run yarn start
